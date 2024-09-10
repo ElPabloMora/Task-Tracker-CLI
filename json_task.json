@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "description": "Task 1 cambiada",
+        "status": "pendiente",
+        "createdAt": "2024-09-04T19:44:00.674051",
+        "updatedAt": "2024-09-05T17:50:36.699712"
+    },
+    {
+        "id": 2,
+        "description": "task1",
+        "status": "pendiente",
+        "createdAt": "2024-09-04T19:44:07.087999",
+        "updatedAt": "None"
+    },
+    {
+        "id": 3,
+        "description": "task3Change",
+        "status": "done",
+        "createdAt": "2024-09-06T11:41:26.808815",
+        "updatedAt": "2024-09-09T11:48:24.500743"
+    },
+    {
+        "id": 5,
+        "description": "desc changed",
+        "status": "progress",
+        "createdAt": "2024-09-06T11:45:36.008757",
+        "updatedAt": "2024-09-06T11:52:56.430682"
+    },
+    {
+        "id": 6,
+        "description": "New desc",
+        "status": "done",
+        "createdAt": "2024-09-06T11:46:17.638837",
+        "updatedAt": "2024-09-09T14:29:44.763599"
+    }
+]
