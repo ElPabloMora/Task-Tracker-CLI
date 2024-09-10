@@ -1,0 +1,1 @@
+It is a command line interface where we can add, update and delete tasks. We can also mark a completion status for said task. This solution is based on the page https://roadmap.sh/projects/task-tracker
